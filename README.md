@@ -1,3 +1,5 @@
+# Fixed by https://github.com/FabricMC/fabric-loom/pull/791
+
 # Fabric Kapt Issue
 
 When gradle build with kapt it will 👇
